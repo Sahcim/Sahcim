@@ -4,7 +4,7 @@
 * 🎓 I'm currently Computer Science student at [Univeristy of Wrocław](https://uni.wroc.pl/en/).
 * 🚀 I’m currently learning `scala`.
 * ✨ Mastering: `cpp`, `python`.
-* 🔥 Pasionate about Machine learning, Deep Learning, Natural Language Processing
+* 🔥 Pasionate about Machine learning, Deep Learning, Natural Language Processing.
 
 #### 📫 How to reach me:   
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discordapp.com/users/246613289122004992)
