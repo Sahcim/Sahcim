@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-I'm Michał - Computer Science Student @ Univeristy of Wrocław
+I'm Michał - Computer science student @ Univeristy of Wrocław
 
