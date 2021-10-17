@@ -3,7 +3,7 @@
 #### 🌿 Bio:
 * 🎓 I'm currently Computer Science student at [Univeristy of Wrocław](https://uni.wroc.pl/en/).
 * 🚀 I’m currently learning `scala`.
-* ✨ Mastering: `c`, `cpp`, `python`.
+* ✨ Mastering: `python`.
 * 🔥 Passionate about Machine learning, Deep Learning, Natural Language Processing.
 
 #### 📫 How to reach me:   
