@@ -3,7 +3,7 @@
 
 #### 🌿 Bio:
 * 🎓 I have bachelor's degree in Computer Science from the [Univeristy of Wrocław](https://uni.wroc.pl/en/).
-* 🚀 I'm currently working as datascienti in deepsense.ai where I develop machine learning solutions for for real-world problems
+* 🚀 I'm currently working as datascientis in deepsense.ai where I develop machine learning solutions for real-world problems
 * ✨ Co-creator of [Trelbert](https://huggingface.co/deepsense-ai/trelbert), a Polish Twitter-based BERT model
 * 👀 Currently seeking a Master's program to continue education.
 
