@@ -7,7 +7,7 @@
     1. [**CodinGame Fall Challenge 2023**](https://www.codingame.com/contests/fall-challenge-2023/leaderboard/global) – Top 71 / 4669 participants
     2. [**CodinGame Summer Challenge 2024**](https://www.codingame.com/contests/summer-challenge-2024-olymbits/leaderboard/global) – Top 234 / 5237 participants
     3. [**CodinGame Code Royale 2023**](https://www.codingame.com/multiplayer/bot-programming/spring-challenge-2021) – Top 190 / 6867 participants 
-* ✨ Co-creator of [Trelbert](https://huggingface.co/deepsense-ai/trelbert), a Polish Twitter-based BERT model
+* ✨ Co-creator of [Trelbert](https://huggingface.co/deepsense-ai/trelbert](https://aclanthology.org/2023.bsnlp-1.3/), a Polish Twitter-based BERT model
 * 🎓 I hold a **Bachelor's degree in Computer Science** from the [University of Wrocław](https://uni.wroc.pl/en/)
 
 #### 📫 How to reach me:
